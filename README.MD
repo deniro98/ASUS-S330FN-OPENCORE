@@ -1,4 +1,4 @@
-# Awesome Hackintosh Mac OS BigSur on ***Asus S330FN***
+# Awesome Hackintosh Mac OS Big Sur on ***Asus S330FN***
 
 ![Awesome](https://github.com/deniro98/ASUS-S330FN-OPENCORE/blob/master/screenshot.png?raw=true)
 ![Awesome](https://github.com/deniro98/ASUS-S330FN-OPENCORE/blob/master/screenshot2.png?raw=true)
