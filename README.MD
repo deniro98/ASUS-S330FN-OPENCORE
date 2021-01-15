@@ -39,20 +39,21 @@
 
 	Remove junk from DSDT and anything
 	Update README.MD
+	Remove Refind
 
 # Credits 
 
-[itlwm](https://github.com/zxystd/itlwm) 
-[AppleALC](https://github.com/acidanthera/AppleALC)
-[AppleBacklightSmoother](https://github.com/hieplpvip/AppleBacklightSmoother)
-[AsusSMC](https://github.com/hieplpvip/AsusSMC)
-[CPUFriend](https://github.com/acidanthera/CPUFriend)
-[CpuTscSync](https://github.com/acidanthera/CpuTscSync)
-[HibernationFixup](https://github.com/acidanthera/HibernationFixup)
-[Lilu](https://github.com/acidanthera/Lilu)
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC)
-[VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+1. [itlwm](https://github.com/zxystd/itlwm) 
+2. [AppleALC](https://github.com/acidanthera/AppleALC)
+3. [AppleBacklightSmoother](https://github.com/hieplpvip/AppleBacklightSmoother)
+4. [AsusSMC](https://github.com/hieplpvip/AsusSMC)
+5. [CPUFriend](https://github.com/acidanthera/CPUFriend)
+6. [CpuTscSync](https://github.com/acidanthera/CpuTscSync)
+7. [HibernationFixup](https://github.com/acidanthera/HibernationFixup)
+8. [Lilu](https://github.com/acidanthera/Lilu)
+9. [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+10. [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
+11. [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 
 Apple and Hackintosh comminoty!
 
